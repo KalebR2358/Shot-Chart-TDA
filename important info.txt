@@ -1,0 +1,27 @@
+important info:
+
+all lineup info from https://www.basketball-reference.com
+
+all data from nab_api
+
+
+all starting lineups will be the most common starting lineup. 
+As in the lineup that started the most games together that year.
+
+
+season 1 starting lineup(19 games played):
+Eric Williams(sf-sg)
+Jeff McInnis(sg-pg)
+LeBron James(sf-sg)
+Zydrunas Ilgauskas(c)
+Carlos Boozer(pf-c)
+
+
+graphing info:
+
+colors:
+LeBron(red)
+Eric Williams(blue)
+Jeff McInnis(yellow)
+Zydrunas Ilgauska(purple)
+Carlos Boozer(orange)
